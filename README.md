@@ -1,14 +1,5 @@
 # Environmental Sensor Data Analysis
 
-## Table of Contents
-1. [Description of the Project](#description-of-the-project)
-2. [Technologies and Methodology](#technologies-and-methodology)
-3. [Data Engineering Lifecycle](#data-engineering-lifecycle)
-4. [Project Visualization](#project-visualization)
-5. [Project Retrospective Part I](#project-retrospective-part-i)
-6. [Project Retrospective Part II](#project-retrospective-part-ii)
-7. [Conclusion](#conclusion)
-
 ## Description of the Project
 
 ### Introduction
@@ -40,7 +31,7 @@ The primary goal is to demonstrate a robust data handling and analysis framework
 - **Visual Crossing Weather API**: Tests the machine learning model and predicts future weather.
 
 ## Data Source
-- **Primary Data Source**: Visual Crossing Weather API and GitHub (historical weather data from 2018 to 2024).
+- **Primary Data Source**: Visual Crossing Weather API and GitHub [DATA](https://github.com/sanket101-git/Local-Climatological-Data/raw/main/Sensor_Data.zip)(historical weather data from 2018 to 2024).
 - **GitHub Data Link**: [Sensor Data](https://github.com/sanket101-git/Local-Climatological-Data/raw/main/Sensor_Data.zip)
 
 ## Workflow and Architecture
